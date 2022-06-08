@@ -1,2 +1,3 @@
 # kanban-react
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://y2kf30.csb.app/)
